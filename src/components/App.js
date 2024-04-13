@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './Header/Header';
+import Footer from "./Footer/Footer";
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <main>
           <p>Внесли изменения сайта. Добвили блок main</p>
       </main>
-
+        <Footer/>
     </div>
   );
 }
