@@ -18,6 +18,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <main>
+          <p>Внесли изменения сайта. Добвили блок main</p>
+      </main>
+
     </div>
   );
 }
